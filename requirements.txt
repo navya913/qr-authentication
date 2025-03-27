@@ -1,0 +1,14 @@
+dataclasses-json==0.6.4
+jsonpatch==1.33
+jsonpointer==2.4
+jsonschema==4.23.0
+jsonschema-specifications==2023.12.1
+numpy
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+opencv-python-headless==4.10.0.84
+orjson==3.10.0
+pillow==11.1.0
+pillow_heif==0.22.0
+os
+requests
